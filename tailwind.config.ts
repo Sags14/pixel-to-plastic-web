@@ -57,6 +57,21 @@ export default {
           border: "hsl(var(--sidebar-border))",
           ring: "hsl(var(--sidebar-ring))",
         },
+        // Custom anime colors
+        "electric-blue": "hsl(var(--electric-blue))",
+        "hot-pink": "hsl(var(--hot-pink))",
+        "bright-purple": "hsl(var(--bright-purple))",
+        "neon-green": "hsl(var(--neon-green))",
+        "sunset-orange": "hsl(var(--sunset-orange))",
+      },
+      backgroundImage: {
+        "gradient-primary": "var(--gradient-primary)",
+        "gradient-secondary": "var(--gradient-secondary)",
+        "gradient-accent": "var(--gradient-accent)",
+      },
+      boxShadow: {
+        glow: "var(--shadow-glow)",
+        card: "var(--shadow-card)",
       },
       borderRadius: {
         lg: "var(--radius)",
