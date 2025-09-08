@@ -78,7 +78,7 @@ const Contact = () => {
                   </div>
                   <div>
                     <h4 className="font-bold text-lg">Email</h4>
-                    <p className="text-muted-foreground">orders@anime3dprint.com</p>
+                    <p className="text-muted-foreground">orders@toontrove.com</p>
                   </div>
                 </CardContent>
               </Card>
@@ -90,22 +90,12 @@ const Contact = () => {
                   </div>
                   <div>
                     <h4 className="font-bold text-lg">Phone</h4>
-                    <p className="text-muted-foreground">+1 (555) 123-ANIME</p>
+                    <p className="text-muted-foreground">+91 8541842397</p>
                   </div>
                 </CardContent>
               </Card>
               
-              <Card className="border-l-4 border-l-electric-blue shadow-card card-hover">
-                <CardContent className="p-6 flex items-center gap-4">
-                  <div className="w-12 h-12 bg-gradient-secondary rounded-lg flex items-center justify-center">
-                    <MessageCircle className="w-6 h-6 text-white" />
-                  </div>
-                  <div>
-                    <h4 className="font-bold text-lg">Live Chat</h4>
-                    <p className="text-muted-foreground">Available 9 AM - 6 PM EST</p>
-                  </div>
-                </CardContent>
-              </Card>
+           
             </div>
             
             <div className="bg-gradient-secondary/10 rounded-2xl p-6">
